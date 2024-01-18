@@ -1,0 +1,22 @@
+.font {
+	color:blue;
+}
+body {
+	background-color: lightgray;
+}
+.container {
+	border: 2px solid gray;
+}
+.mid {
+	text-align: center;
+}
+
+
+
+@media screen and (max-width:320px) {
+
+ .img img {
+ 	width:270px;
+ }
+
+}
